@@ -1,0 +1,34 @@
+body{
+    background-color:darkgray;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+}
+.weather-side{
+    margin-top: 20px;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+}
+.weather-side{
+    margin: 20px 5px;
+    border-radius: 20px;
+    position: relative;
+    overflow: hidden;
+    width: 270px;
+    height: 270px;
+    background: cornsilk;
+}
+.Weather-softnes{
+    margin: 20px 50px;
+    
+
+}
+.Weather-wind{
+    margin: 50px 10px;
+    
+
+}
